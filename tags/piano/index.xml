@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>piano on tile in yaml</title>
+    <link>https://example.com/tags/piano/</link>
+    <description>Recent content in piano on tile in yaml</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 May 2021 16:35:10 +0200</lastBuildDate><atom:link href="https://example.com/tags/piano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ggg</title>
+      <link>https://example.com/g/</link>
+      <pubDate>Sat, 22 May 2021 16:35:10 +0200</pubDate>
+      
+      <guid>https://example.com/g/</guid>
+      <description>fsdfsbhfhtrht</description>
+    </item>
+    
+    <item>
+      <title>a.md Erste Datei</title>
+      <link>https://example.com/a/</link>
+      <pubDate>Sat, 22 May 2021 16:08:29 +0200</pubDate>
+      
+      <guid>https://example.com/a/</guid>
+      <description>Aha, erster Text</description>
+    </item>
+    
+  </channel>
+</rss>
